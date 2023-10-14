@@ -1,6 +1,8 @@
 # Flutter Dicee App
 
-![Dicee App Demo](dicee_app_demo.gif)
+![Dicee App Demo]
+<img src="dicee_app_demo.gif" alt="Dicee App Demo" width="500">
+
 
 ## Description
 
