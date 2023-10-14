@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-class HomePage extends StatefulWidget {
-  const HomePage({super.key});
+class DicePage extends StatefulWidget {
+  const DicePage({super.key});
 
   @override
-  State<HomePage> createState() => _HomePageState();
+  State<DicePage> createState() => _DicePageState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _DicePageState extends State<DicePage> {
   int leftDiceNumber = 1;
   int rightDiceNumber = 1;
 
